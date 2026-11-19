@@ -1,6 +1,6 @@
 <div align="center">
 
-![Hunter banner](assets/banner.svg)
+![Hunter banner](banner.svg)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![Nen chart](assets/nen-chart.svg)
+![Nen chart](nen-chart.svg)
 
 </div>
 
